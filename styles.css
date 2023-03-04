@@ -45,7 +45,6 @@ body{
 .sobre_conteudo p{
     width: 70%;
     font-size: 1.2rem;
-    display: flex;
     justify-content: center;
     text-align: center;
 }
